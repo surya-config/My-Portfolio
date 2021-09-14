@@ -2,7 +2,7 @@
   "main": {
     "name": "Surya G",
     "occupation": "Software Engineer & Full Stack Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "With every line of code, I strive to make the web a beautiful place.",
     "image": "profilepic.jpeg",
     "bio": "Hi there! I am Surya! Focused Computer Science Graduate (8.37 GPA), with 10 months of work experience. Aiming to leverage a proven knowledge of programming application development, and web platform development skills to successfully fill the Full Stack Developer role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals .",
     "contactmessage": "Get in touch with me!",
@@ -29,7 +29,7 @@
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/surya_._g/",
+        "url": "https://www.instagram.com/suryaa_._g/",
         "className": "fa fa-instagram"
       },
       {
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "My Technical Skill Proficiency",
     "education": [
       {
         "school": "Jyothy Institute of Technology",
@@ -54,13 +54,25 @@
         "company": "Apisero",
         "title": "Software Engineer",
         "years": "August 2021 - Present",
-        "description": "Building supporting flows for mule application. Develop API that support various applications. Evaluate code to ensure that it is valid, is properly structured, meets industry standards."
+        "description": "Building efficient flows for mule application. Develop API that support various applications. Evaluate code to ensure that it is valid, is properly structured, meets industry standards."
+      },
+      {
+        "company": "Wellzap",
+        "title": "Full Stack Engineer Intern",
+        "years": "June 2021 - July 2021",
+        "description": "Writing supporting and quality code for web application and mobile application.Develop databases that support both web and mobile application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards and compatible with browsers, devices, or operating systems."
       },
       {
         "company": "Compose Corner",
         "title": "Full Stack Engineer Intern",
-        "years": "December 2020 - July 2021",
-        "description": "Writing supporting code for web application and mobile application.Develop databases that support both web and mobile application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards and compatible with browsers, devices, or operating systems."
+        "years": "December 2020 - June 2021",
+        "description": "Writing supporting and quality code for web application and mobile application.Develop databases that support both web and mobile application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards and compatible with browsers, devices, or operating systems."
+      },
+      {
+        "company": "Scholarly Science",
+        "title": "React Developer Intern",
+        "years": "September 2020 - October 2020",
+        "description": "Building quality web pages for the web application. Perform or direct website updates."
       }
     ],
     "skills": [
@@ -111,62 +123,62 @@
     "projects": [
       {
         "title": "Spotify Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "spotify.png",
         "url": "https://github.com/surya-config/Spotify-Clone"
       },
       {
         "title": "Netflix Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "netflix.png",
         "url": "https://github.com/surya-config/Netflix-Clone"
       },
       {
         "title": "Amazon Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "amazon.png",
         "url": "https://github.com/surya-config/Amazon-Clone"
       },
       {
         "title": "Covid Tracker (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "covid-tracker.png",
         "url": "https://github.com/surya-config/Covid-Life"
       },
       {
         "title": "Airbnb Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "airbnb.png",
         "url": "https://github.com/surya-config/Airbnb-Clone"
       },
       {
         "title": "Facebook Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "facebook.png",
         "url": "https://github.com/surya-config/Facebook-Clone"
       },
       {
         "title": "Whatsapp Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "whatsapp.jpeg",
         "url": "https://github.com/surya-config/WhatsApp-Clone"
       },
       {
         "title": "Google Clone (Next JS and Tailwind CSS)",
-        "category": "",
+        "category": "Web Development",
         "image": "google.png",
         "url": "https://github.com/surya-config/Google-Clone-using-Next-JS-and-Tailwind-CSS"
       },
       {
         "title": "Alan AI News App Reader (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "alan-ai.png",
         "url": "https://github.com/surya-config/Alan-AI-News-App"
       },
 
       {
         "title": "Instagram Clone (React JS)",
-        "category": "",
+        "category": "Web Development",
         "image": "instagram.jpg",
         "url": "https://github.com/surya-config/Instagram-clone"
       }
@@ -175,9 +187,14 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Surya is a great developer with creative and artistic ideas who designs a simple yet amazing websites.",
-        "user": "Tejas Gowda S"
+        "text": "Surya is a quick learner and a dedicated person. He works hard and is passionate enough to complete his tasks in a perfect manner.",
+        "user": "Supreetha H, Software Engineer at Apisero"
+      },
+      {
+        "text": "Surya is a great developer with creative and artistic ideas who designs simple yet amazing websites.",
+        "user": "Tejas Gowda S, Software Engineer at Apisero"
       }
+     
     ]
   }
 }
