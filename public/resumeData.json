@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Surya G",
-    "occupation": "Full Stack Developer",
+    "occupation": "Software Engineer & Full Stack Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpeg",
-    "bio": "Hi there! I am Surya! Focused Computer Science major (8.37 GPA) currently attending jyothy Institute of Technology, with 9 months of work experience. Aiming to leverage a proven knowledge of programming application development, and web platform development skills to successfully fill the Full Stack Developer role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals .",
+    "bio": "Hi there! I am Surya! Focused Computer Science Graduate (8.37 GPA), with 10 months of work experience. Aiming to leverage a proven knowledge of programming application development, and web platform development skills to successfully fill the Full Stack Developer role at your company. Frequently praised as quality-oriented by my peers, I can be relied upon to help your company achieve its goals .",
     "contactmessage": "Get in touch with me!",
     "email": "suryaa.g031@gmail.com",
     "phone": "+91 8073451526",
@@ -51,10 +51,16 @@
     ],
     "work": [
       {
+        "company": "Apisero",
+        "title": "Software Engineer",
+        "years": "August 2021 - Present",
+        "description": "Building supporting flows for mule application. Develop API that support various applications. Evaluate code to ensure that it is valid, is properly structured, meets industry standards."
+      },
+      {
         "company": "Compose Corner",
         "title": "Full Stack Engineer Intern",
-        "years": "December 2020 - Present",
-        "description": "Write supporting code for web application and mobile application.Develop databases that support both web and mobile application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards and compatible with browsers, devices, or operating systems."
+        "years": "December 2020 - July 2021",
+        "description": "Writing supporting code for web application and mobile application.Develop databases that support both web and mobile application. Recommend and implement performance improvements.Analyze user needs to determine technical requirements. Evaluate code to ensure that it is valid, is properly structured, meets industry standards and compatible with browsers, devices, or operating systems."
       }
     ],
     "skills": [
@@ -68,15 +74,11 @@
       },
       {
         "name": "MongoDB",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "SQL Database",
-        "level": "70%"
-      },
-      {
-        "name": "Python",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -89,6 +91,19 @@
       {
         "name": "Web Development",
         "level": "95%"
+      },
+     
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "Mulesoft",
+        "level": "70%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
       }
     ]
   },
